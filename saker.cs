@@ -248,7 +248,7 @@ namespace GameFunctions
 	}
 	static public void tutorial()
 	{
-		Console.WriteLine("fråga Sixten or sum jag orkar inte försklara");	
+		Console.WriteLine("du har ett antal HP och ett antal reservhp, din fighter slås tills den har slut på hp och efter varje round kan du lägga till hp till den. Det slutar när du har slut på båda reserve och hp. Du kan spara efter varje match och sparfilen är inte krypterad på något sätt så fuska på om du vill. Det är ett single player spel!");	
 	}
 	}
 }
